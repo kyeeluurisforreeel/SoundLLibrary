@@ -61,3 +61,6 @@ Trumpet Fanfare;https://github.com/iiDk-the-actual/ModInfo/raw/main/trumpetfanfa
 Clown Music;https://github.com/iiDk-the-actual/ModInfo/raw/main/Circus%20-%20Theme%20Song.mp3
 Bumblebee;https://github.com/iiDk-the-actual/ModInfo/raw/main/bunblebee.mp3
 Alone at the Edge of a Universe;https://github.com/iiDk-the-actual/ModInfo/raw/main/alone%20at%20the%20edge%20of%20a%20universe.mp3
+Lil Peep & XXXTENTACION - Falling Down;https://github.com/kyeeluurisforreeel/SoundLLibrary/raw/refs/heads/main/Lil%20Peep%20&%20XXXTENTACION%20-%20Falling%20Down.mp3
+Godzilla (feat. Juice WRLD);https://github.com/kyeeluurisforreeel/SoundLLibrary/raw/refs/heads/main/Godzilla%20(feat.%20Juice%20WRLD)%20%5BOfficial%20Audio%5D.mp3
+1nonly - Stay With Me;https://github.com/kyeeluurisforreeel/SoundLLibrary/raw/refs/heads/main/1nonly%20-%20Stay%20With%20Me%20(Lyrics).mp3
